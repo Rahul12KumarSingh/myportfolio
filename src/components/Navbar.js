@@ -85,7 +85,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/Rahul12KumarSingh"
+                href="https://github.com/Rahul12KumarSingh/myportfolio"
                 target="_blank"
                 className="fork-btn-inner"
               >
@@ -97,7 +97,7 @@ function NavBar() {
         </Navbar.Collapse>
       </Container>
     </Navbar>
-  );
+  );  
 }
 
 export default NavBar;
